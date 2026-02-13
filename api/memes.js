@@ -7,7 +7,7 @@ app.use(express.json({ limit: "1mb" }));
 const DEFAULT_MEMES = [
   { title: "Cuddle mode: ON 😽", src: "/date1.jpeg" },
   { title: "A heart just for you 💗", src: "/date2.png" },
-  { title: "Officially your Valentine 🥺", src: "/date3.jpeg" },
+  { title: "Officially your Valentine 😋", src: "/date3.jpeg" },
 ];
 
 // Make Express routing robust in Vercel (sometimes req.url includes the full /api/memes path)
