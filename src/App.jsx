@@ -311,7 +311,7 @@ export default function App(){
               <div className="banner" style={{ marginTop: 16 }}>
                 <div>
                   <div className="bigLove">
-                    {stage === "ask" ? "Be my Valentine, pretty please? 🥺" : "It’s a date!! 💞"}
+                    {stage === "ask" ? "Will you be my Valentine, please? 🥺" : "OAAAG!! 💞"}
                   </div>
                   <div className="smallLove">
                     {stage === "ask"
@@ -373,7 +373,7 @@ export default function App(){
                     <div className="dateTopText">
                       <div className="dateTopTitle">It’s a date!! 💞</div>
                       <div className="dateTopSub">
-                        {loadingMemes ? "Loading cuteness…" : "Pick your favorite vibe 😽 (tap to zoom)"}
+                        {loadingMemes ? "Loading cuteness…" : "Pick your favorite vibe ;D (tap to zoom)"}
                       </div>
                     </div>
                   </div>
@@ -399,7 +399,7 @@ export default function App(){
           </div>
 
           <div className="footerNote">
-            Made with love, sparkles, and a cat who takes romance very seriously. 💗
+            Made with love, sparkles, and a cat who takes romance very seriously. 😝😝💗
           </div>
         </div>
 
