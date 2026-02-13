@@ -315,7 +315,7 @@ export default function App(){
                   </div>
                   <div className="smallLove">
                     {stage === "ask"
-                      ? "P.S. The “No” button starts brave… then panics."
+                      ? "Plss dont say no 😭."
                       : "Tap a meme for a bigger look (and more hearts)."}
                   </div>
                 </div>
@@ -371,7 +371,7 @@ export default function App(){
                     </button>
 
                     <div className="dateTopText">
-                      <div className="dateTopTitle">It’s a date!! 💞</div>
+                      <div className="dateTopTitle">SAKA YAPIRSAN ERCAAAN!! 💞</div>
                       <div className="dateTopSub">
                         {loadingMemes ? "Loading cuteness…" : "Pick your favorite vibe ;D (tap to zoom)"}
                       </div>
