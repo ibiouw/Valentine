@@ -288,7 +288,7 @@ export default function App(){
               <div className="badge">🐱</div>
               <div>
                 <h1>Will you be my Valentine?</h1>
-                <div className="sub">Cute • romantic • a little artsy • and the “No” button is extremely shy.</div>
+                <div className="sub">Dip note: NO button is extremely shy🥰.</div>
               </div>
             </div>
 
