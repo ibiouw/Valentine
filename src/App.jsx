@@ -3,7 +3,7 @@ import React, { useEffect, useMemo, useRef, useState } from 'react'
 const DEFAULT_MEMES = [
   { title: "Cuddle mode: ON 😽", src: "/date1.jpeg" },
   { title: "A heart just for you 💗", src: "/date2.png" },
-  { title: "Officially your Valentine 🥺", src: "/date3.jpeg" },
+  { title: "Officially your Valentine 😝", src: "/date3.jpeg" },
 ]
 
 const POP_EMOJIS = ["💗", "💖", "💘", "💕", "✨", "🌹", "🌸", "🫶"]
@@ -311,7 +311,7 @@ export default function App(){
               <div className="banner" style={{ marginTop: 16 }}>
                 <div>
                   <div className="bigLove">
-                    {stage === "ask" ? "Will you be my Valentine, please? 🥺" : "OAAAG!! 💞"}
+                    {stage === "ask" ? "Melo, will you be my Valentine, please? 🥺" : "OAAAG!! 💞"}
                   </div>
                   <div className="smallLove">
                     {stage === "ask"
